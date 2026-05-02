@@ -56,6 +56,7 @@ const SOURCES: &[Source] = &[
     ),
     Source::api("PAC3-Server/chatsounds", "sounds/chatsounds"),
     Source::api("MasterMenSilver/Astral-Dream-Things", "chatsounds"),
+    Source::api("Ludinko23/chatsounds", "sounds"),
     Source::msgpack("PAC3-Server/chatsounds-valve-games", "csgo"),
     Source::msgpack("PAC3-Server/chatsounds-valve-games", "css"),
     Source::msgpack("PAC3-Server/chatsounds-valve-games", "ep1"),
