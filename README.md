@@ -1,3 +1,4 @@
+ClassiCube ChatSounds Plugin Ladonkonized
 To add your own repository, go to modules/chatsounds/mod.rs.
 
 To Compile get Nix and Rust, you will need experimental flakes depending on your operating system the file can differ, check with google.
