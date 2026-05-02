@@ -1,4 +1,4 @@
-#ClassiCube ChatSounds Plugin 'Ladonkonized'
+# ClassiCube ChatSounds Plugin 'Ladonkonized'
 
 To add your own repository, go to modules/chatsounds/mod.rs.
 
